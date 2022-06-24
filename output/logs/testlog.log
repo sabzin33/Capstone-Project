@@ -1,0 +1,369 @@
+2022-06-15 14:18:09,872 - .\src\test\resources\input\log4j.properties -INFO - Scenario check on components page object started
+2022-06-15 14:18:15,593 - .\src\test\resources\input\log4j.properties -INFO - user is on the tek-school retail home page
+2022-06-15 14:18:16,103 - .\src\test\resources\input\log4j.properties -INFO - user clicks on the components
+2022-06-15 14:18:16,289 - .\src\test\resources\input\log4j.properties -INFO - user scrolls down to show all components
+2022-06-15 14:18:16,470 - .\src\test\resources\input\log4j.properties -INFO - user clicks on mice and trackballs
+2022-06-15 14:18:16,625 - .\src\test\resources\input\log4j.properties -INFO - user click on the comtinue button
+2022-06-15 14:18:20,842 - .\src\test\resources\input\log4j.properties -INFO - Scenario check on components page object finishedPASSED
+2022-06-15 14:34:18,628 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tab started
+2022-06-15 14:34:20,499 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:34:20,547 - .\src\test\resources\input\log4j.properties -INFO - user click on desktops tab
+2022-06-15 14:34:20,892 - .\src\test\resources\input\log4j.properties -INFO - user click on show all desktops
+2022-06-15 14:34:20,923 - .\src\test\resources\input\log4j.properties -INFO - user should see all items are present in desktop page
+2022-06-15 14:34:21,237 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify all items are present in Desktops tab finishedPASSED
+2022-06-15 14:34:21,269 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP from Desktops tab to the cart started
+2022-06-15 14:34:22,597 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:34:22,640 - .\src\test\resources\input\log4j.properties -INFO - user click on desktops tab
+2022-06-15 14:34:22,906 - .\src\test\resources\input\log4j.properties -INFO - user click on show all desktops
+2022-06-15 14:34:22,938 - .\src\test\resources\input\log4j.properties -INFO - user click add to cart option on HP LP3065 item
+2022-06-15 14:34:23,770 - .\src\test\resources\input\log4j.properties -INFO - user select quantity
+2022-06-15 14:34:23,810 - .\src\test\resources\input\log4j.properties -INFO - user click add to cart button
+2022-06-15 14:34:23,837 - .\src\test\resources\input\log4j.properties -INFO - user should see a message 'success you have added hp lp to your shopping cart!'
+2022-06-15 14:34:28,072 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add HP LP from Desktops tab to the cart finishedPASSED
+2022-06-15 14:34:28,079 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart started
+2022-06-15 14:34:29,366 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:34:29,407 - .\src\test\resources\input\log4j.properties -INFO - user click on desktops tab
+2022-06-15 14:34:29,688 - .\src\test\resources\input\log4j.properties -INFO - user click on show all desktops
+2022-06-15 14:34:29,722 - .\src\test\resources\input\log4j.properties -INFO - user click add to cart option on canon eos 5d item
+2022-06-15 14:34:30,516 - .\src\test\resources\input\log4j.properties -INFO - user select color from dropdown Red
+2022-06-15 14:34:30,567 - .\src\test\resources\input\log4j.properties -INFO - user select quantity
+2022-06-15 14:34:30,605 - .\src\test\resources\input\log4j.properties -INFO - user click add to cart button
+2022-06-15 14:34:30,627 - .\src\test\resources\input\log4j.properties -INFO - user should see a message success you have added canon eos 5d to your shopping cart
+2022-06-15 14:34:34,839 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart finishedPASSED
+2022-06-15 14:34:34,852 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab started
+2022-06-15 14:34:36,144 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:34:36,186 - .\src\test\resources\input\log4j.properties -INFO - user click on desktops tab
+2022-06-15 14:34:36,426 - .\src\test\resources\input\log4j.properties -INFO - user click on show all desktops
+2022-06-15 14:34:37,080 - .\src\test\resources\input\log4j.properties -INFO - user click on canon eos 5d item
+2022-06-15 14:34:37,118 - .\src\test\resources\input\log4j.properties -INFO - user click on write a review link
+2022-06-15 14:34:37,337 - .\src\test\resources\input\log4j.properties -INFO - user fill the review information with below information
+2022-06-15 14:34:37,371 - .\src\test\resources\input\log4j.properties -INFO - user click on continue button
+2022-06-15 14:34:37,474 - .\src\test\resources\input\log4j.properties -INFO - user should see a message with thank you for your review it has been submitted to the webmaster for approval
+2022-06-15 14:34:41,798 - .\src\test\resources\input\log4j.properties -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab finishedPASSED
+2022-06-15 14:36:11,376 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-06-15 14:36:13,151 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:36:13,158 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-06-15 14:36:13,617 - .\src\test\resources\input\log4j.properties -INFO - User chosed Euro from dropdown
+2022-06-15 14:36:14,064 - .\src\test\resources\input\log4j.properties -INFO - Currency value should be changed to Euro
+2022-06-15 14:36:14,381 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change finishedPASSED
+2022-06-15 14:36:14,404 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-15 14:36:15,772 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:36:15,776 - .\src\test\resources\input\log4j.properties -INFO - User click on shopping cart
+2022-06-15 14:36:16,132 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! message should be displayed
+2022-06-15 14:36:16,364 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays finishedPASSED
+2022-06-15 14:39:53,204 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart started
+2022-06-15 14:39:54,895 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:39:54,940 - .\src\test\resources\input\log4j.properties -INFO - user click on laptop & notebook tab
+2022-06-15 14:39:55,225 - .\src\test\resources\input\log4j.properties -INFO - user click on show all laptop & notebook option
+2022-06-15 14:39:56,188 - .\src\test\resources\input\log4j.properties -INFO - user click on macbook item
+2022-06-15 14:39:56,223 - .\src\test\resources\input\log4j.properties -INFO - user click add to cart button
+2022-06-15 14:39:56,260 - .\src\test\resources\input\log4j.properties -INFO - user should see a message success: you have added macbook to your shopping cart!
+2022-06-15 14:40:00,517 - .\src\test\resources\input\log4j.properties -INFO - Scenario Add and Remove a Mac book from Cart finishedFAILED
+2022-06-15 14:40:00,530 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison started
+2022-06-15 14:40:01,754 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:40:01,794 - .\src\test\resources\input\log4j.properties -INFO - user click on laptop & notebook tab
+2022-06-15 14:40:02,008 - .\src\test\resources\input\log4j.properties -INFO - user click on show all laptop & notebook option
+2022-06-15 14:40:02,045 - .\src\test\resources\input\log4j.properties -INFO - user click on product comparison icon macbook
+2022-06-15 14:40:02,078 - .\src\test\resources\input\log4j.properties -INFO - user click on product comparison icon on macbook air
+2022-06-15 14:40:02,104 - .\src\test\resources\input\log4j.properties -INFO - user should see a message success you have added macbook air to your product compariosn
+2022-06-15 14:40:02,301 - .\src\test\resources\input\log4j.properties -INFO - user click on product comparison link
+2022-06-15 14:40:02,328 - .\src\test\resources\input\log4j.properties -INFO - user should see product comparison chart
+2022-06-15 14:40:02,438 - .\src\test\resources\input\log4j.properties -INFO - Scenario Product Comparison finishedPASSED
+2022-06-15 14:40:02,447 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list started
+2022-06-15 14:40:04,140 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:40:04,179 - .\src\test\resources\input\log4j.properties -INFO - user click on laptop & notebook tab
+2022-06-15 14:40:04,382 - .\src\test\resources\input\log4j.properties -INFO - user click on show all laptop & notebook option
+2022-06-15 14:40:04,418 - .\src\test\resources\input\log4j.properties -INFO - user click on heart icon to add sony vaio laptop to wish list
+2022-06-15 14:40:04,443 - .\src\test\resources\input\log4j.properties -INFO - user should get a message you must login or create an account to save sony vaio to your wish list
+2022-06-15 14:40:04,534 - .\src\test\resources\input\log4j.properties -INFO - Scenario Adding an item to Wish list finishedPASSED
+2022-06-15 14:40:04,542 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 started
+2022-06-15 14:40:05,944 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:40:05,983 - .\src\test\resources\input\log4j.properties -INFO - user click on laptop & notebook tab
+2022-06-15 14:40:06,191 - .\src\test\resources\input\log4j.properties -INFO - user click on show all laptop & notebook option
+2022-06-15 14:40:07,395 - .\src\test\resources\input\log4j.properties -INFO - user click on macbook pro item
+2022-06-15 14:40:07,421 - .\src\test\resources\input\log4j.properties -INFO - user should see price tag is presnt on ui
+2022-06-15 14:40:11,643 - .\src\test\resources\input\log4j.properties -INFO - Scenario Validate the price of MacBook Pro is 2000 finishedPASSED
+2022-06-15 14:42:06,067 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-06-15 14:42:07,819 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:42:07,824 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-06-15 14:42:08,263 - .\src\test\resources\input\log4j.properties -INFO - User chosed Euro from dropdown
+2022-06-15 14:42:08,698 - .\src\test\resources\input\log4j.properties -INFO - Currency value should be changed to Euro
+2022-06-15 14:42:09,039 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change finishedPASSED
+2022-06-15 14:42:09,053 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-15 14:42:10,572 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:42:10,575 - .\src\test\resources\input\log4j.properties -INFO - User click on shopping cart
+2022-06-15 14:42:10,857 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! message should be displayed
+2022-06-15 14:42:11,106 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays finishedPASSED
+2022-06-15 14:57:31,656 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change started
+2022-06-15 14:57:33,352 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:57:33,357 - .\src\test\resources\input\log4j.properties -INFO - User clicked on Currency
+2022-06-15 14:57:33,841 - .\src\test\resources\input\log4j.properties -INFO - User chosed Euro from dropdown
+2022-06-15 14:57:34,221 - .\src\test\resources\input\log4j.properties -INFO - Currency value should be changed to Euro
+2022-06-15 14:57:34,523 - .\src\test\resources\input\log4j.properties -INFO - Scenario User verify currency values change finishedPASSED
+2022-06-15 14:57:34,544 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays started
+2022-06-15 14:57:35,897 - .\src\test\resources\input\log4j.properties -INFO - user is on retail website
+2022-06-15 14:57:35,902 - .\src\test\resources\input\log4j.properties -INFO - User click on shopping cart
+2022-06-15 14:57:36,284 - .\src\test\resources\input\log4j.properties -INFO - Your shopping cart is empty! message should be displayed
+2022-06-15 14:57:36,522 - .\src\test\resources\input\log4j.properties -INFO - Scenario User empty Shopping cart message displays finishedPASSED
+2022-06-15 16:03:04,178 - logger_File -INFO - Scenario check on components page object Started
+2022-06-15 16:03:05,956 - logger_File -INFO - user is on the tek-school retail home page
+2022-06-15 16:03:06,461 - logger_File -INFO - user clicks on the components
+2022-06-15 16:03:06,650 - logger_File -INFO - user scrolls down to show all components
+2022-06-15 16:03:06,840 - logger_File -INFO - user clicks on mice and trackballs
+2022-06-15 16:03:07,026 - logger_File -INFO - user click on the comtinue button
+2022-06-15 16:03:07,123 - logger_File -INFO - Scenario check on components page object PASSED
+2022-06-16 12:09:23,973 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-06-16 12:09:28,800 - logger_File -INFO - user is on retail website
+2022-06-16 12:09:28,856 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-16 12:09:29,486 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-16 12:09:34,955 - logger_File -INFO - user click on macbook item
+2022-06-16 12:09:35,016 - logger_File -INFO - user click add to cart button
+2022-06-16 12:09:35,114 - logger_File -INFO - user should see a message success: you have added macbook to your shopping cart!
+2022-06-16 12:09:35,166 - logger_File -INFO - user should see item showed to the cart
+2022-06-16 12:09:35,222 - logger_File -INFO - user click on cart option
+2022-06-16 12:09:35,305 - logger_File -INFO - user click on red x button to remove the item form cart
+2022-06-16 12:09:35,421 - logger_File -INFO - item should be removed and cart should show
+2022-06-16 12:09:39,783 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-22 18:56:52,585 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-06-22 18:57:00,041 - logger_File -INFO - user is on retail website
+2022-06-22 18:57:00,106 - logger_File -INFO - user click on desktops tab
+2022-06-22 18:57:00,607 - logger_File -INFO - user click on show all desktops
+2022-06-22 18:57:00,654 - logger_File -INFO - user should see all items are present in desktop page
+2022-06-22 18:57:01,064 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-22 19:07:09,554 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:07:43,542 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 19:07:50,138 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 19:10:27,206 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:10:50,092 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 19:10:58,605 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 19:11:16,345 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:11:31,187 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 19:11:56,628 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 19:18:58,360 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:19:16,219 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 19:19:24,252 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 19:27:29,863 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:31:26,126 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:31:59,059 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-06-22 19:31:59,078 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 19:32:00,344 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 19:38:49,167 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 19:39:08,339 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 19:39:40,947 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-06-22 19:39:40,973 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 21:53:10,509 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 21:53:12,806 - logger_File -INFO - user is on retail website
+2022-06-22 21:53:12,862 - logger_File -INFO - User click on my account
+2022-06-22 21:53:13,018 - logger_File -INFO - user click on Login
+2022-06-22 21:53:13,123 - logger_File -INFO - User enter user 'userName' and password 'password'
+2022-06-22 21:53:13,578 - logger_File -INFO - User click on Login button
+2022-06-22 21:53:13,616 - logger_File -INFO - User should be logged in to My Account dashboard
+2022-06-22 21:53:13,953 - logger_File -INFO - User click on 'Register for Affiliate Account ' link
+2022-06-22 21:53:14,152 - logger_File -INFO - User fill affiliate form with below information
+2022-06-22 21:53:14,189 - logger_File -INFO - User check on about us check box
+2022-06-22 21:53:14,472 - logger_File -INFO - User click on Continue button
+2022-06-22 21:53:14,502 - logger_File -INFO - User should see a success message
+2022-06-22 21:53:14,849 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-22 21:53:14,867 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 21:53:16,280 - logger_File -INFO - user is on retail website
+2022-06-22 21:53:16,323 - logger_File -INFO - User click on my account
+2022-06-22 21:53:16,486 - logger_File -INFO - user click on Login
+2022-06-22 21:53:16,588 - logger_File -INFO - User enter user 'userName' and password 'password'
+2022-06-22 21:53:16,793 - logger_File -INFO - User click on Login button
+2022-06-22 21:53:16,821 - logger_File -INFO - User should be logged in to My Account dashboard
+2022-06-22 21:53:17,150 - logger_File -INFO - User click on 'Edit you affiliate information link'
+2022-06-22 21:53:17,202 - logger_File -INFO - User click on Bank Transfer radio button
+2022-06-22 21:53:17,476 - logger_File -INFO - User fill Bank information with below information
+2022-06-22 21:53:17,687 - logger_File -INFO - User click on Continue button
+2022-06-22 21:53:17,721 - logger_File -INFO - User should see a success message
+2022-06-22 21:53:17,993 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-22 21:53:18,006 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 21:53:19,471 - logger_File -INFO - user is on retail website
+2022-06-22 21:53:19,515 - logger_File -INFO - User click on my account
+2022-06-22 21:53:19,663 - logger_File -INFO - user click on Login
+2022-06-22 21:53:19,782 - logger_File -INFO - User enter user 'userName' and password 'password'
+2022-06-22 21:53:19,990 - logger_File -INFO - User click on Login button
+2022-06-22 21:53:20,020 - logger_File -INFO - User should be logged in to My Account dashboard
+2022-06-22 21:53:20,480 - logger_File -INFO - User click on 'Edit your account information' link
+2022-06-22 21:53:20,801 - logger_File -INFO - User modify below information
+2022-06-22 21:53:20,991 - logger_File -INFO - User click on continue button
+2022-06-22 21:53:21,023 - logger_File -INFO - User should see a message 'Success: you account has been successfully update.'
+2022-06-22 21:53:21,302 - logger_File -INFO - Scenario Edit your account Information PASSED
+2022-06-22 22:00:06,158 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-06-22 22:00:08,498 - logger_File -INFO - user is on retail website
+2022-06-22 22:00:08,552 - logger_File -INFO - User click on my account
+2022-06-22 22:00:10,735 - logger_File -INFO - user click on Login
+2022-06-22 22:00:10,861 - logger_File -INFO - User enter user 'userName' and password 'password'
+2022-06-22 22:00:13,283 - logger_File -INFO - User click on Login button
+2022-06-22 22:00:15,386 - logger_File -INFO - User should be logged in to My Account dashboard
+2022-06-22 22:00:17,816 - logger_File -INFO - User click on 'Register for Affiliate Account ' link
+2022-06-22 22:00:20,180 - logger_File -INFO - User fill affiliate form with below information
+2022-06-22 22:00:22,267 - logger_File -INFO - User check on about us check box
+2022-06-22 22:00:23,701 - logger_File -INFO - User click on Continue button
+2022-06-22 22:00:24,750 - logger_File -INFO - User should see a success message
+2022-06-22 22:00:25,173 - logger_File -INFO - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-06-22 22:00:25,232 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-06-22 22:00:26,752 - logger_File -INFO - user is on retail website
+2022-06-22 22:00:26,806 - logger_File -INFO - User click on my account
+2022-06-22 22:00:28,995 - logger_File -INFO - user click on Login
+2022-06-22 22:00:29,123 - logger_File -INFO - User enter user 'userName' and password 'password'
+2022-06-22 22:00:31,364 - logger_File -INFO - User click on Login button
+2022-06-22 22:00:33,404 - logger_File -INFO - User should be logged in to My Account dashboard
+2022-06-22 22:00:35,767 - logger_File -INFO - User click on 'Edit you affiliate information link'
+2022-06-22 22:00:37,840 - logger_File -INFO - User click on Bank Transfer radio button
+2022-06-22 22:00:38,273 - logger_File -INFO - User fill Bank information with below information
+2022-06-22 22:00:40,539 - logger_File -INFO - User click on Continue button
+2022-06-22 22:00:41,610 - logger_File -INFO - User should see a success message
+2022-06-22 22:00:42,013 - logger_File -INFO - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PASSED
+2022-06-22 22:00:42,058 - logger_File -INFO - Scenario Edit your account Information Started
+2022-06-22 22:00:43,555 - logger_File -INFO - user is on retail website
+2022-06-22 22:00:43,613 - logger_File -INFO - User click on my account
+2022-06-22 22:00:45,801 - logger_File -INFO - user click on Login
+2022-06-22 22:00:45,929 - logger_File -INFO - User enter user 'userName' and password 'password'
+2022-06-22 22:00:48,276 - logger_File -INFO - User click on Login button
+2022-06-22 22:00:50,322 - logger_File -INFO - User should be logged in to My Account dashboard
+2022-06-22 22:00:52,793 - logger_File -INFO - User click on 'Edit your account information' link
+2022-06-22 22:00:55,337 - logger_File -INFO - User modify below information
+2022-06-22 22:00:57,563 - logger_File -INFO - User click on continue button
+2022-06-22 22:12:48,699 - logger_File -INFO - Scenario check on components page object Started
+2022-06-22 22:12:50,649 - logger_File -INFO - user is on the tek-school retail home page
+2022-06-22 22:12:51,190 - logger_File -INFO - user clicks on the components
+2022-06-22 22:12:51,367 - logger_File -INFO - user scrolls down to show all components
+2022-06-22 22:12:51,557 - logger_File -INFO - user clicks on mice and trackballs
+2022-06-22 22:12:51,732 - logger_File -INFO - user click on the comtinue button
+2022-06-22 22:12:51,858 - logger_File -INFO - Scenario check on components page object PASSED
+2022-06-22 22:13:57,107 - logger_File -INFO - Scenario check on components page object Started
+2022-06-22 22:13:59,877 - logger_File -INFO - user is on the tek-school retail home page
+2022-06-22 22:14:00,424 - logger_File -INFO - user clicks on the components
+2022-06-22 22:14:02,739 - logger_File -INFO - user scrolls down to show all components
+2022-06-22 22:14:04,947 - logger_File -INFO - user clicks on mice and trackballs
+2022-06-22 22:14:07,175 - logger_File -INFO - user click on the comtinue button
+2022-06-22 22:14:09,412 - logger_File -INFO - Scenario check on components page object PASSED
+2022-06-22 22:18:18,832 - logger_File -INFO - Scenario User verify all items are present in Desktops tab Started
+2022-06-22 22:18:20,776 - logger_File -INFO - user is on retail website
+2022-06-22 22:18:20,827 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:18:23,091 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:18:25,100 - logger_File -INFO - user is on retail website
+2022-06-22 22:18:25,140 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:18:27,366 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:18:29,474 - logger_File -INFO - user should see all items are present in desktop page
+2022-06-22 22:18:32,046 - logger_File -INFO - Scenario User verify all items are present in Desktops tab PASSED
+2022-06-22 22:18:32,156 - logger_File -INFO - Scenario User add HP LP from Desktops tab to the cart Started
+2022-06-22 22:18:34,514 - logger_File -INFO - user is on retail website
+2022-06-22 22:18:34,573 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:18:36,855 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:18:38,868 - logger_File -INFO - user is on retail website
+2022-06-22 22:18:38,907 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:18:41,121 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:18:43,183 - logger_File -INFO - user click add to cart option on HP LP3065 item
+2022-06-22 22:18:45,270 - logger_File -INFO - user select quantity
+2022-06-22 22:18:47,336 - logger_File -INFO - user click add to cart button
+2022-06-22 22:18:47,388 - logger_File -INFO - user should see a message 'success you have added hp lp to your shopping cart!'
+2022-06-22 22:18:53,692 - logger_File -INFO - Scenario User add HP LP from Desktops tab to the cart PASSED
+2022-06-22 22:18:53,739 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart Started
+2022-06-22 22:18:55,447 - logger_File -INFO - user is on retail website
+2022-06-22 22:18:55,502 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:18:57,779 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:18:59,790 - logger_File -INFO - user is on retail website
+2022-06-22 22:18:59,834 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:19:02,052 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:19:04,124 - logger_File -INFO - user click add to cart option on canon eos 5d item
+2022-06-22 22:19:06,183 - logger_File -INFO - user select color from dropdown Red
+2022-06-22 22:19:08,273 - logger_File -INFO - user select quantity
+2022-06-22 22:19:10,335 - logger_File -INFO - user click add to cart button
+2022-06-22 22:19:10,378 - logger_File -INFO - user should see a message success you have added canon eos 5d to your shopping cart
+2022-06-22 22:19:16,754 - logger_File -INFO - Scenario User add Canon EOS 5D from Desktops tab to the cart PASSED
+2022-06-22 22:19:16,876 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab Started
+2022-06-22 22:19:19,871 - logger_File -INFO - user is on retail website
+2022-06-22 22:19:19,934 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:19:22,203 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:19:24,211 - logger_File -INFO - user is on retail website
+2022-06-22 22:19:24,252 - logger_File -INFO - user click on desktops tab
+2022-06-22 22:19:26,461 - logger_File -INFO - user click on show all desktops
+2022-06-22 22:19:29,885 - logger_File -INFO - user click on canon eos 5d item
+2022-06-22 22:19:31,942 - logger_File -INFO - user click on write a review link
+2022-06-22 22:19:34,178 - logger_File -INFO - user fill the review information with below information
+2022-06-22 22:19:34,244 - logger_File -INFO - user click on continue button
+2022-06-22 22:19:38,494 - logger_File -INFO - user should see a message with thank you for your review it has been submitted to the webmaster for approval
+2022-06-22 22:19:45,006 - logger_File -INFO - Scenario User add a review to Canon EOS 5D item in Desktops tab PASSED
+2022-06-22 22:20:16,881 - logger_File -INFO - Scenario User verify currency values change Started
+2022-06-22 22:20:18,746 - logger_File -INFO - user is on retail website
+2022-06-22 22:20:18,753 - logger_File -INFO - User clicked on Currency
+2022-06-22 22:20:19,337 - logger_File -INFO - User chosed Euro from dropdown
+2022-06-22 22:20:19,762 - logger_File -INFO - Currency value should be changed to Euro
+2022-06-22 22:20:20,127 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-06-22 22:20:20,154 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-06-22 22:20:21,725 - logger_File -INFO - user is on retail website
+2022-06-22 22:20:21,731 - logger_File -INFO - User click on shopping cart
+2022-06-22 22:20:22,161 - logger_File -INFO - Your shopping cart is empty! message should be displayed
+2022-06-22 22:20:22,457 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-22 22:21:43,242 - logger_File -INFO - Scenario User verify currency values change Started
+2022-06-22 22:21:45,406 - logger_File -INFO - user is on retail website
+2022-06-22 22:21:45,414 - logger_File -INFO - User clicked on Currency
+2022-06-22 22:21:47,068 - logger_File -INFO - User chosed Euro from dropdown
+2022-06-22 22:21:49,606 - logger_File -INFO - Currency value should be changed to Euro
+2022-06-22 22:21:52,026 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-06-22 22:21:52,126 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-06-22 22:21:53,727 - logger_File -INFO - user is on retail website
+2022-06-22 22:21:53,742 - logger_File -INFO - User click on shopping cart
+2022-06-22 22:21:55,124 - logger_File -INFO - Your shopping cart is empty! message should be displayed
+2022-06-22 22:21:55,435 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-22 22:22:04,538 - logger_File -INFO - Scenario User verify currency values change Started
+2022-06-22 22:22:06,745 - logger_File -INFO - user is on retail website
+2022-06-22 22:22:06,754 - logger_File -INFO - User clicked on Currency
+2022-06-22 22:22:08,566 - logger_File -INFO - User chosed Euro from dropdown
+2022-06-22 22:22:11,095 - logger_File -INFO - Currency value should be changed to Euro
+2022-06-22 22:22:13,535 - logger_File -INFO - Scenario User verify currency values change PASSED
+2022-06-22 22:22:13,623 - logger_File -INFO - Scenario User empty Shopping cart message displays Started
+2022-06-22 22:22:15,507 - logger_File -INFO - user is on retail website
+2022-06-22 22:22:15,523 - logger_File -INFO - User click on shopping cart
+2022-06-22 22:22:16,859 - logger_File -INFO - Your shopping cart is empty! message should be displayed
+2022-06-22 22:22:17,168 - logger_File -INFO - Scenario User empty Shopping cart message displays PASSED
+2022-06-22 22:25:37,447 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart Started
+2022-06-22 22:25:41,575 - logger_File -INFO - user is on retail website
+2022-06-22 22:25:43,639 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-22 22:25:45,868 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-22 22:25:49,118 - logger_File -INFO - user click on macbook item
+2022-06-22 22:25:51,198 - logger_File -INFO - user click add to cart button
+2022-06-22 22:25:53,288 - logger_File -INFO - user should see a message success: you have added macbook to your shopping cart!
+2022-06-22 22:25:55,354 - logger_File -INFO - user should see item showed to the cart
+2022-06-22 22:25:57,416 - logger_File -INFO - user click on cart option
+2022-06-22 22:25:59,493 - logger_File -INFO - user click on red x button to remove the item form cart
+2022-06-22 22:26:01,545 - logger_File -INFO - item should be removed and cart should show
+2022-06-22 22:26:07,917 - logger_File -INFO - Scenario Add and Remove a Mac book from Cart PASSED
+2022-06-22 22:26:07,978 - logger_File -INFO - Scenario Product Comparison Started
+2022-06-22 22:26:09,895 - logger_File -INFO - user is on retail website
+2022-06-22 22:26:11,951 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-22 22:26:14,176 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-22 22:26:16,242 - logger_File -INFO - user click on product comparison icon macbook
+2022-06-22 22:26:48,568 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-06-22 22:26:48,628 - logger_File -INFO - Scenario Adding an item to Wish list Started
+2022-06-22 22:26:50,618 - logger_File -INFO - user is on retail website
+2022-06-22 22:26:52,673 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-22 22:26:54,897 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-22 22:26:56,954 - logger_File -INFO - user click on heart icon to add sony vaio laptop to wish list
+2022-06-22 22:26:59,024 - logger_File -INFO - user should get a message you must login or create an account to save sony vaio to your wish list
+2022-06-22 22:27:01,276 - logger_File -INFO - Scenario Adding an item to Wish list PASSED
+2022-06-22 22:27:01,319 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-06-22 22:27:02,925 - logger_File -INFO - user is on retail website
+2022-06-22 22:27:04,978 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-22 22:27:07,205 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-22 22:27:10,437 - logger_File -INFO - user click on macbook pro item
+2022-06-22 22:27:12,490 - logger_File -INFO - user should see price tag is presnt on ui
+2022-06-22 22:27:18,816 - logger_File -INFO - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-06-22 22:28:04,858 - logger_File -INFO - Scenario Product Comparison Started
+2022-06-22 22:28:07,419 - logger_File -INFO - user is on retail website
+2022-06-22 22:28:09,473 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-22 22:28:11,711 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-22 22:28:13,792 - logger_File -INFO - user click on product comparison icon macbook
+2022-06-22 22:28:46,019 - logger_File -INFO - Scenario Product Comparison FAILED
+2022-06-22 22:33:19,358 - logger_File -INFO - Scenario Product Comparison Started
+2022-06-22 22:33:21,468 - logger_File -INFO - user is on retail website
+2022-06-22 22:33:23,517 - logger_File -INFO - user click on laptop & notebook tab
+2022-06-22 22:33:25,744 - logger_File -INFO - user click on show all laptop & notebook option
+2022-06-22 22:33:27,817 - logger_File -INFO - user click on product comparison icon macbook
+2022-06-22 22:33:29,889 - logger_File -INFO - user click on product comparison icon on macbook air
+2022-06-22 22:33:31,995 - logger_File -INFO - user should see a message success you have added macbook air to your product compariosn
+2022-06-22 22:33:34,584 - logger_File -INFO - user click on product comparison link
+2022-06-22 22:33:36,651 - logger_File -INFO - user should see product comparison chart
+2022-06-22 22:33:38,902 - logger_File -INFO - Scenario Product Comparison PASSED

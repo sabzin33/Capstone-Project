@@ -1,0 +1,12 @@
+page\object\RetailPageObject.class
+page\object\TabletsPageObject.class
+page\object\Mp3PlayerPageObject.class
+page\object\HomePageObject.class
+page\object\PhonesPDAsPageObject.class
+core\Base.class
+page\object\ComponentsPageObject.class
+page\object\DesktopPageObject.class
+utilities\CucumberReportingConfig.class
+utilities\Utilities.class
+page\object\LaptopsNoteBooksPageObject.class
+page\object\SoftwarePageObject.class

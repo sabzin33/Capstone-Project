@@ -1,0 +1,159 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "start_timestamp": "2022-06-23T05:33:19.235Z",
+        "before": [
+          {
+            "result": {
+              "duration": 2157295200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.beforeHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Product Comparison",
+        "description": "",
+        "id": "laptop-and-notebooks;product-comparison",
+        "after": [
+          {
+            "result": {
+              "duration": 239773300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "stepDefinitions.Initializer.afterHooks(io.cucumber.java.Scenario)"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2025513100,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User is on Retail website",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_is_on_retail_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2057917400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User click on Laptop \u0026NoteBook tab",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_click_on_laptop_note_book_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2221464000,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "User click on Show all Laptop \u0026NoteBook option",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_click_on_show_all_laptop_note_book_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2065897100,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "User click on product comparison icon on ‘MacBook’",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_click_on_product_comparison_icon_on_mac_book()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2083315800,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "User click on product comparison icon on ‘MacBook Air",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_click_on_product_comparison_icon_on_mac_book_air()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2095542200,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "User should see a message ‘Success: You have added MacBook Air to your product comparison!’",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_should_see_a_message_success_you_have_added_mac_book_air_to_your_product_comparison()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2587550400,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "User click on Product comparison link",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_click_on_product_comparison_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2068493000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "User should see Product Comparison Chart",
+            "match": {
+              "location": "stepDefinitions.LaptopsNoteBooksStep.user_should_see_product_comparison_chart()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@LaptopAndNoteBooks"
+          },
+          {
+            "name": "@Comparison"
+          }
+        ]
+      }
+    ],
+    "name": "Laptop and NoteBooks",
+    "description": "",
+    "id": "laptop-and-notebooks",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/feature/laptopsNoteBooks.feature",
+    "tags": [
+      {
+        "name": "@LaptopAndNoteBooks",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
